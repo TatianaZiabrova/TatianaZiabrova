@@ -1,41 +1,37 @@
-Изучаю Python-разработку и работу с данными. Прихожу в IT из естественных наук — по образованию химик-биолог, сейчас заканчиваю магистратуру по нейробиологии психического здоровья.
+Татьяна Зяброва
 
-- Сейчас учусь на основном обучении в Школе 21 (Сбер), направление Python-разработка
-- До этого прошла интенсив по программированию в Школе 21: алгоритмы и структуры данных, C, Git
-- Изучала статистику отдельным курсом в магистратуре (проверка гипотез, регрессионный анализ) и применяю на практике
+Развиваюсь в Data Science и Python-разработке. Прихожу в IT из естественных наук: по образованию учитель химии и биологии, учусь в магистратуре по направлению «Нейробиология психического здоровья». Сейчас прохожу основное обучение в Школе 21 (Сбер).
 
----
+Мне интересны исследовательский анализ данных, статистическое моделирование и применение Python для проверки гипотез. Ищу стажировку в Data Science.
 
-### Стек и инструменты
+## Анализ данных
 
-**Языки и библиотеки:** Python (pandas, numpy, seaborn, statsmodels), SQL, C
+**Статистический анализ Pima Indians Diabetes** — выполненная домашняя работа по статистике в магистратуре на 768 наблюдениях: описательная статистика, визуализация, тесты Шапиро–Уилка и Манна–Уитни, корреляционный анализ и сравнение OLS-моделей с оценкой VIF. В описании работы разобраны результаты и ограничения анализа.
 
-**Инфраструктура:** Git/GitHub, Linux, Docker
+Python · pandas · NumPy · SciPy · statsmodels · Matplotlib · Seaborn
 
-**Данные:** очистка и подготовка датасетов, описательная статистика, корреляционный и регрессионный анализ, визуализация данных
+https://github.com/TatianaZiabrova/diabetes
 
----
+## Проекты на Python
 
-### Проекты
+- **[exam-simulator](https://github.com/TatianaZiabrova/exam-simulator)** — симуляция очереди сдачи экзамена с несколькими параллельно работающими экзаменаторами, обновлением статуса в консоли и итоговой статистикой.
+- **[Tic-Tac-Toe](https://github.com/TatianaZiabrova/Tic-Tac-Toe)** — веб-игра на Flask с алгоритмом Minimax, разделением на слои и паттерном Repository.
+- **[genetics_terms](https://github.com/TatianaZiabrova/genetics_terms)** — Telegram-бот с мнемотехниками для изучения генетики; развёрнут на VPS через Docker.
 
-**exam-simulator** — [github.com/TatianaZiabrova/exam-simulator](https://github.com/TatianaZiabrova/exam-simulator)
-Симуляция очереди сдачи экзамена с несколькими экзаменаторами, работающими параллельно (многопроцессность), с живым обновлением статуса в консоли и статистикой по итогам.
-`Python`
+## Другие проекты
 
-**Tic-Tac-Toe** — [github.com/TatianaZiabrova/Tic-Tac-Toe](https://github.com/TatianaZiabrova/Tic-Tac-Toe)
-Веб-игра в крестики-нолики с ИИ-соперником на алгоритме Minimax. Проект разбит на слои (web/domain/datasource/DI), реализован через Flask-контроллер и паттерн Repository с in-memory хранилищем.
+- **[chem-elements](https://github.com/TatianaZiabrova/chem-elements)** — сайт для изучения названий, символов и произношения химических элементов. JavaScript.
 
-**genetics_terms** — [github.com/TatianaZiabrova/genetics_terms](https://github.com/TatianaZiabrova/genetics_terms)
-Telegram-бот с мнемотехниками для изучения биологии — помогает запоминать термины по генетике.
-`Python`
+## Инструменты
 
-**chem-elements** — [github.com/TatianaZiabrova/chem-elements](https://github.com/TatianaZiabrova/chem-elements)
-Простой статический сайт для запоминания названий, химических символов и произношения химических элементов.
-`JavaScript`
+- **Анализ данных:** pandas, NumPy, SciPy, statsmodels, Matplotlib, Seaborn.
+- **Базы данных:** PostgreSQL — JOIN, подзапросы, оконные функции.
+- **Разработка:** Python, C, Git, Linux, Docker.
+- **Английский:** B2, чтение биологической и технической литературы.
 
----
+## Контакты
 
-### Контакты
+[GitHub](https://github.com/TatianaZiabrova)
 
-- Email: sokolyanskayatatyana@yandex.ru
-- GitHub: [github.com/TatianaZiabrova](https://github.com/TatianaZiabrova)
+Email: [ttt.ziabrova@yandex.ru](mailto:ttt.ziabrova@yandex.ru)
+
